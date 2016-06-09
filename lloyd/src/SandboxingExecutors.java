@@ -1,6 +1,8 @@
 import java.util.concurrent.Executor;
 import java.util.concurrent.Executors;
 
+// create and pass a null
+
 public class SandboxingExecutors {
     public static void main(String[] args) {
         Executor anExecutor = java.util.concurrent.Executors.newCachedThreadPool();

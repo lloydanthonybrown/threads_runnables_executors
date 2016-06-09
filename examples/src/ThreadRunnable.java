@@ -6,6 +6,7 @@ public class ThreadRunnable implements Runnable{
             System.out.println("Child Thread : " + i);
 
             try{
+                // Why do we make the threads go to sleep on purpose? Are we assuming they're busy with a process for that time?
                 Thread.sleep(50);
             }
             catch(InterruptedException ie){
@@ -32,7 +33,8 @@ public class ThreadRunnable implements Runnable{
             System.out.println("Main thread : " + i);
 
             try{
-                Thread.sleep(100);
+                // Does it matter how long this sleeps for?
+                Thread.sleep(10);
             }
             catch(InterruptedException ie){
                 System.out.println("Child thread interrupted! " + ie);
