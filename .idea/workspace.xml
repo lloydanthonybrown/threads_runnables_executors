@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0cd25f9-eb61-4b11-b5d7-baa1f0607286" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/production/lloyd/SandboxingExecutors.class" afterPath="$PROJECT_DIR$/production/lloyd/SandboxingExecutors.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/production/lloyd/SandboxingRunnables.class" afterPath="$PROJECT_DIR$/production/lloyd/SandboxingRunnables.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/production/lloyd/SandboxingThreads$SandboxedThread1.class" afterPath="$PROJECT_DIR$/production/lloyd/SandboxingThreads$SandboxedThread1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/production/lloyd/SandboxingThreads$SandboxedThread2.class" afterPath="$PROJECT_DIR$/production/lloyd/SandboxingThreads$SandboxedThread2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/production/lloyd/SandboxingThreads.class" afterPath="$PROJECT_DIR$/production/lloyd/SandboxingThreads.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/src/ThreadRunnable.java" afterPath="$PROJECT_DIR$/examples/src/ThreadRunnable.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lloyd/src/SandboxingExecutors.java" afterPath="$PROJECT_DIR$/lloyd/src/SandboxingExecutors.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lloyd/src/SandboxingRunnables.java" afterPath="$PROJECT_DIR$/lloyd/src/SandboxingRunnables.java" />
     </list>
     <ignored path="threads_runnables_executors.iws" />
@@ -35,11 +28,9 @@
       <file leaf-file-name="SandboxingExecutors.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lloyd/src/SandboxingExecutors.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
+            <state relative-caret-position="34">
               <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -67,8 +58,8 @@
       <file leaf-file-name="SandboxingRunnables.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lloyd/src/SandboxingRunnables.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="112" selection-start-line="2" selection-start-column="112" selection-end-line="2" selection-end-column="112" />
+            <state relative-caret-position="544">
+              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -178,8 +169,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -238,6 +227,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -842,12 +833,19 @@
       <workItem from="1465438647609" duration="14000" />
       <workItem from="1465493148006" duration="794000" />
       <workItem from="1465494090607" duration="849000" />
-      <workItem from="1465496187016" duration="5000" />
+      <workItem from="1465496187016" duration="733000" />
+      <workItem from="1465525468040" duration="184000" />
+      <workItem from="1465839325889" duration="145000" />
+      <workItem from="1466095718938" duration="780000" />
+      <workItem from="1466099769698" duration="172000" />
+      <workItem from="1466099964338" duration="80000" />
+      <workItem from="1466641062377" duration="1322000" />
+      <workItem from="1466703094685" duration="599000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21228000" />
+    <option name="totallyTimeSpent" value="25238000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -912,9 +910,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1206,11 +1202,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lloyd/src/SandboxingExecutors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
+        <state relative-caret-position="34">
           <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1232,8 +1226,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lloyd/src/SandboxingRunnables.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="112" selection-start-line="2" selection-start-column="112" selection-end-line="2" selection-end-column="112" />
+        <state relative-caret-position="544">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding />
         </state>
       </provider>

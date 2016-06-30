@@ -1,6 +1,10 @@
 public class SandboxingRunnables implements Runnable{
 
     // POST a runnable? Perform this in Android Studio. Make a background thread communicate with a main thread.
+    // Main thread communicates directly with UI. Creates runnable to send post to be executed in background thread.
+    // Background thread makes connections and retrieves/changes data, then creates a runnable.
+    // Sends this runnable/task back to the Main thread's queue to be completed.
+    // Example: clicking a button on a webpage several times, it kinda freezes as it processes each click in the queue.
 
     public void run(){
         for(int i=0; i < 5; i++){
