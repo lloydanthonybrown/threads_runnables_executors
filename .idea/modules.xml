@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/examples/barneys.iml" filepath="$PROJECT_DIR$/examples/barneys.iml" />
       <module fileurl="file://$PROJECT_DIR$/examples/examples.iml" filepath="$PROJECT_DIR$/examples/examples.iml" />
       <module fileurl="file://$PROJECT_DIR$/lloyd/lloyd.iml" filepath="$PROJECT_DIR$/lloyd/lloyd.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/threads_runnables_executors.iml" filepath="$PROJECT_DIR$/.idea/threads_runnables_executors.iml" />
